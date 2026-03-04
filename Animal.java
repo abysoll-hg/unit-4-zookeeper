@@ -77,6 +77,6 @@ public class Animal {
     }
 
     public String toString() {
-        return "";
+        return this.animalType + " is the animal this animal is set to :3";
     }
 }
